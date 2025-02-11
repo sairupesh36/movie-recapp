@@ -75,7 +75,7 @@ The application will launch in your default web browser.
 
 ## Screenshots
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/screenshot.jpeg)
 
 ## Contact
 
