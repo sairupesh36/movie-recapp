@@ -1,5 +1,7 @@
 # Movie Recommender System
 
+![App Screenshot](images/screenshot.jpeg)
+
 This project is a content-based Movie Recommender System built with Python and Streamlit. It suggests movies similar to the one selected by the user, using text-based features like genres, keywords, cast, and crew. The app fetches movie posters using the TMDB API.
 
 ## Features
@@ -72,10 +74,6 @@ The application will launch in your default web browser.
 1. Select a movie from the dropdown menu.
 2. Click on the **Recommend** button.
 3. The app will display five recommended movies along with their posters.
-
-## Screenshots
-
-![App Screenshot](images/screenshot.jpeg)
 
 ## Contact
 
